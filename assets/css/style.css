@@ -1537,6 +1537,13 @@ body .body-overlay {
     margin-bottom: 20px;
 }
 
+.contact-area .contact-content h4 {
+    font-size: 24px;
+    color: var(--primary_color);
+    font-weight: 300;
+    margin-bottom: 20px;
+}
+
 .contact-area .contact-content #required-msg {
     color: #fc4545;
     font-size: 14px;
